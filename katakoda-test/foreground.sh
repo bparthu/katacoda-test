@@ -1,5 +1,1 @@
-echo "This is automatically run when the scenario"
-
-docker ps
-pwd
-ls -lha
+docker run --rm -it -e COLUMNS=$COLUMNS -e LINES=100 -e TERM=$TERM -it bpaarthu/event-driven-bar:latest
