@@ -10,13 +10,7 @@
         "text": "step1.md",
         "code": "foreground.sh"
       }
-    ],
-    "intro": {
-      "text": "intro.md"
-    },
-    "finish": {
-      "text": "finish.md"
-    }
+    ]
   },
   "environment": {
     "uilayout": "terminal"
